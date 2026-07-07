@@ -1,0 +1,402 @@
+{
+  "rounds": [
+    {
+      "name": "Round 1: FIFA Basics",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Multiple Choice",
+          "difficulty": "Easy",
+          "question": "Which country won the 2022 FIFA World Cup held in Qatar?",
+          "options": ["France", "Argentina", "Brazil", "Croatia"],
+          "answer": "Argentina",
+          "explanation": "Argentina defeated France in a thrilling final that ended 3-3 after extra time, winning 4-2 on penalties.",
+          "fact": "This was Argentina's third World Cup title, and Lionel Messi's first.",
+          "expected_discussion": "Discuss Messi's legacy and the intensity of the final match."
+        },
+        {
+          "id": 2,
+          "type": "Multiple Choice",
+          "difficulty": "Easy",
+          "question": "How many teams will participate in the 2026 FIFA World Cup?",
+          "options": ["32", "40", "48", "64"],
+          "answer": "48",
+          "explanation": "The 2026 edition will be the first to feature 48 teams, expanded from the traditional 32.",
+          "fact": "This expansion means there will be 104 matches in total during the tournament.",
+          "expected_discussion": "Talk about the impact of more teams on the tournament's length and global reach."
+        },
+        {
+          "id": 3,
+          "type": "Guess the Player",
+          "difficulty": "Easy",
+          "question": "Who won the Golden Boot award for scoring the most goals (8) in the 2022 FIFA World Cup?",
+          "answer": "Kylian Mbappé",
+          "explanation": "Kylian Mbappé scored a hat-trick in the final, bringing his tournament total to 8 goals.",
+          "fact": "He became only the second player ever to score a hat-trick in a World Cup final, after Geoff Hurst in 1966.",
+          "expected_discussion": "Discuss Mbappé's performance in the final and his future potential."
+        },
+        {
+          "id": 4,
+          "type": "True False",
+          "difficulty": "Easy",
+          "question": "True or False: The first-ever FIFA World Cup was held in 1930 and hosted by Uruguay.",
+          "answer": "True",
+          "explanation": "The inaugural tournament took place in Uruguay from 13 to 30 July 1930.",
+          "fact": "Uruguay also won the first tournament, defeating Argentina 4-2 in the final.",
+          "expected_discussion": "Mention how travel was difficult for European teams back in 1930."
+        },
+        {
+          "id": 5,
+          "type": "Guess the Country",
+          "difficulty": "Easy",
+          "question": "Which three countries will jointly host the 2026 FIFA World Cup?",
+          "answer": "USA, Canada, and Mexico",
+          "explanation": "The 2026 FIFA World Cup will be hosted by 16 cities across these three North American nations.",
+          "fact": "Mexico will become the first country to host or co-host the men's World Cup three times (1970, 1986, 2026).",
+          "expected_discussion": "Discuss the logistics of hosting a tournament across three large countries."
+        }
+      ]
+    },
+    {
+      "name": "Round 2: Olympics",
+      "questions": [
+        {
+          "id": 6,
+          "type": "Guess the Mascot",
+          "difficulty": "Easy",
+          "question": "What is the official mascot of the Paris 2024 Olympic Games?",
+          "answer": "The Phryges",
+          "explanation": "The Phryges (Phrygian caps) are symbols of liberty in French history.",
+          "fact": "The design is based on the traditional small hats that are a symbol of freedom in France.",
+          "expected_discussion": "Explain the symbolism of the Phrygian cap in the French Revolution."
+        },
+        {
+          "id": 7,
+          "type": "Guess the Player",
+          "difficulty": "Easy",
+          "question": "Who is the most decorated Olympian of all time, with a total of 28 medals, including 23 gold?",
+          "answer": "Michael Phelps",
+          "explanation": "American swimmer Michael Phelps holds the record for most Olympic gold medals and most total medals.",
+          "fact": "He has more gold medals than 161 countries have won in their entire Olympic history.",
+          "expected_discussion": "Discuss the physical and mental discipline required to sustain such a career."
+        },
+        {
+          "id": 8,
+          "type": "Multiple Choice",
+          "difficulty": "Easy",
+          "question": "What do the five rings on the Olympic flag represent?",
+          "answer": "The five continents of the world",
+          "options": ["The five original sports", "The five founding members", "The five continents of the world", "The five Olympic values"],
+          "explanation": "The rings represent Africa, the Americas, Asia, Europe, and Oceania.",
+          "fact": "The colors (Blue, Yellow, Black, Green, Red) were chosen because every national flag in the world contains at least one of them.",
+          "expected_discussion": "Emphasize the theme of global unity through sports."
+        },
+        {
+          "id": 9,
+          "type": "Guess the City",
+          "difficulty": "Easy",
+          "question": "Which city will host the 2028 Summer Olympic Games?",
+          "answer": "Los Angeles",
+          "explanation": "Los Angeles was selected to host the 2028 Games, marking the third time the city hosts the Olympics (1932, 1984).",
+          "fact": "LA will join London and Paris as the only cities to have hosted the Summer Games three times.",
+          "expected_discussion": "Talk about LA's iconic sporting venues like the Coliseum."
+        },
+        {
+          "id": 10,
+          "type": "Multiple Choice",
+          "difficulty": "Easy",
+          "question": "What is the updated Olympic motto, which now includes the word 'Together'?",
+          "options": ["Citius, Altius, Fortius", "Citius, Altius, Fortius – Communiter", "Citius, Altius, Fortius – Solidaire", "Citius, Altius, Fortius – Unitas"],
+          "answer": "Citius, Altius, Fortius – Communiter",
+          "explanation": "In 2021, the IOC approved adding 'Communiter' (Together) to the original motto 'Faster, Higher, Stronger'.",
+          "fact": "The update was made to recognize the unifying power of sport and the importance of solidarity.",
+          "expected_discussion": "Discuss why 'Together' was added in the post-pandemic context."
+        }
+      ]
+    },
+    {
+      "name": "Round 3: Picture Round",
+      "questions": [
+        {
+          "id": 11,
+          "type": "Picture Identification",
+          "difficulty": "Medium",
+          "question": "Identify this Indian athlete who won Gold at Tokyo 2020 and Silver at Paris 2024 in Javelin Throw.",
+          "image": "neeraj_chopra.jpg",
+          "answer": "Neeraj Chopra",
+          "explanation": "Neeraj Chopra is the first Indian track and field athlete to win an Olympic gold medal.",
+          "fact": "His gold medal in Tokyo was India's first ever Olympic gold in athletics.",
+          "expected_discussion": "Discuss his consistency and the rising popularity of Javelin in India."
+        },
+        {
+          "id": 12,
+          "type": "Guess the Trophy",
+          "difficulty": "Medium",
+          "question": "Identify this iconic trophy awarded to the winners of the FIFA World Cup.",
+          "image": "fifa_trophy.jpg",
+          "answer": "FIFA World Cup Trophy",
+          "explanation": "The current trophy has been used since 1974, replacing the Jules Rimet Trophy.",
+          "fact": "It is made of 18-carat gold and depicts two human figures holding up the Earth.",
+          "expected_discussion": "Explain the history of the Jules Rimet trophy and its theft."
+        },
+        {
+          "id": 13,
+          "type": "Picture Identification",
+          "difficulty": "Medium",
+          "question": "What are these symbols which are the hallmark of the Olympic movement?",
+          "image": "olympic_rings.jpg",
+          "answer": "Olympic Rings",
+          "explanation": "The five interlaced rings symbolize the union of the five continents.",
+          "fact": "The symbol was designed in 1912 by Pierre de Coubertin, the founder of the modern Olympic Games.",
+          "expected_discussion": "Point out that the rings are interlaced to show connection."
+        },
+        {
+          "id": 14,
+          "type": "Guess the Stadium",
+          "difficulty": "Medium",
+          "question": "Name this stadium in Qatar which hosted the final match of the 2022 FIFA World Cup.",
+          "image": "lusail_stadium.jpg",
+          "answer": "Lusail Stadium",
+          "explanation": "Lusail Stadium is the largest stadium in Qatar and hosted ten matches during the 2022 World Cup, including the final.",
+          "fact": "The stadium's design is inspired by the hand-crafted bowls found throughout the Arab and Islamic world.",
+          "expected_discussion": "Discuss the architectural inspiration of the stadium."
+        },
+        {
+          "id": 15,
+          "type": "Picture Identification",
+          "difficulty": "Medium",
+          "question": "Identify this Indian badminton player who is the first Indian to win two individual Olympic medals.",
+          "image": "pv_sindhu.jpg",
+          "answer": "P. V. Sindhu",
+          "explanation": "Sindhu won Silver at Rio 2016 and Bronze at Tokyo 2020.",
+          "fact": "She was also the first Indian to become the Badminton World Champion in 2019.",
+          "expected_discussion": "Highlight her big-match temperament in major tournaments."
+        }
+      ]
+    },
+    {
+      "name": "Round 4: Video Round",
+      "questions": [
+        {
+          "id": 16,
+          "type": "Video Identification",
+          "difficulty": "Medium",
+          "question": "Identify the athlete who holds the world record for 100m sprint, often seen in clips like this.",
+          "video": "100m_sprint.mp4",
+          "answer": "Usain Bolt",
+          "explanation": "Usain Bolt set the world record of 9.58 seconds at the 2009 World Championships.",
+          "fact": "He is an 8-time Olympic gold medalist and the only sprinter to win Olympic 100m and 200m titles at three consecutive Olympics (2008, 2012, 2016).",
+          "expected_discussion": "Discuss his charisma and the 'Lightning Bolt' pose."
+        },
+        {
+          "id": 17,
+          "type": "Video Identification",
+          "difficulty": "Medium",
+          "question": "Which sport is shown in this clip, where athletes throw a spear-like object?",
+          "video": "javelin_throw.mp4",
+          "answer": "Javelin Throw",
+          "explanation": "Javelin throw is a track and field event where the javelin, a spear about 2.5m in length, is thrown.",
+          "fact": "The modern javelin throw is part of the Olympic decathlon and heptathlon.",
+          "expected_discussion": "Explain the technical nuances like the run-up and release angle."
+        },
+        {
+          "id": 18,
+          "type": "Spot the Mistake",
+          "difficulty": "Medium",
+          "question": "In football, if a commentator says 'The penalty is being taken from 10 yards out', what is the mistake?",
+          "video": "penalty_goal.mp4",
+          "answer": "The penalty spot is actually 12 yards from the goal line",
+          "explanation": "The penalty spot is officially 12 yards (11 meters) from the center of the goal line.",
+          "fact": "Penalty kicks were first introduced to the laws of the game in 1891.",
+          "expected_discussion": "Ask students if they know other common football measurements."
+        },
+        {
+          "id": 19,
+          "type": "Video Identification",
+          "difficulty": "Medium",
+          "question": "The Paris 2024 Opening Ceremony was unique for being held on which famous river?",
+          "video": "opening_ceremony.mp4",
+          "answer": "River Seine",
+          "explanation": "Paris 2024 was the first Summer Olympics to have its opening ceremony outside of a stadium.",
+          "fact": "Over 10,000 athletes paraded on boats along a 6-kilometer route on the river.",
+          "expected_discussion": "Discuss the challenges of security and weather for such an event."
+        },
+        {
+          "id": 20,
+          "type": "Guess the Player",
+          "difficulty": "Medium",
+          "question": "Which football superstar is famous for the 'Siu' celebration shown in many clips?",
+          "video": "football_celebration.mp4",
+          "answer": "Cristiano Ronaldo",
+          "explanation": "Cristiano Ronaldo is the all-time leading goalscorer in international football.",
+          "fact": "The 'Siu' celebration involves a mid-air pirouette and landing in a power pose while shouting 'Siu!'",
+          "expected_discussion": "Talk about his fitness and longevity in professional football."
+        }
+      ]
+    },
+    {
+      "name": "Round 5: Challenge Round",
+      "questions": [
+        {
+          "id": 21,
+          "type": "Guess the Player",
+          "difficulty": "Hard",
+          "question": "Who was the first Indian to win an individual Gold medal at the Olympic Games?",
+          "answer": "Abhinav Bindra",
+          "explanation": "Abhinav Bindra won the gold in the Men's 10m Air Rifle event at the 2008 Beijing Olympics.",
+          "fact": "It was India's first-ever individual gold medal and the first gold since the men's hockey team won in 1980.",
+          "expected_discussion": "Describe the precision required in shooting sports."
+        },
+        {
+          "id": 22,
+          "type": "Multiple Choice",
+          "difficulty": "Hard",
+          "question": "Which country has won the most FIFA World Cup titles in history?",
+          "options": ["Germany", "Italy", "Brazil", "Argentina"],
+          "answer": "Brazil",
+          "explanation": "Brazil has won the FIFA World Cup five times (1958, 1962, 1970, 1994, 2002).",
+          "fact": "Brazil is also the only nation to have played in every World Cup tournament.",
+          "expected_discussion": "Mention famous Brazilian players like Pelé and Ronaldo."
+        },
+        {
+          "id": 23,
+          "type": "Guess the Meaning",
+          "difficulty": "Hard",
+          "question": "What does the abbreviation VAR stand for in the context of football refereeing?",
+          "answer": "Video Assistant Referee",
+          "explanation": "VAR is used to review decisions made by the head referee with the use of video footage.",
+          "fact": "It was first written into the Laws of the Game by the IFAB in 2018.",
+          "expected_discussion": "Discuss the controversies and benefits of technology in sports."
+        },
+        {
+          "id": 24,
+          "type": "Multiple Choice",
+          "difficulty": "Hard",
+          "question": "In which city were the first modern Olympic Games held in 1896?",
+          "options": ["Paris", "Athens", "London", "Rome"],
+          "answer": "Athens",
+          "explanation": "The 1896 Summer Olympics were held in Athens, Greece, as a tribute to the ancient Olympic Games.",
+          "fact": "Only 14 nations participated in the first modern Olympics, with a total of 43 events.",
+          "expected_discussion": "Contrast the size of 1896 Games with the scale of modern Olympics."
+        },
+        {
+          "id": 25,
+          "type": "Sequence Questions",
+          "difficulty": "Hard",
+          "question": "Arrange these FIFA World Cup winners in order from the most recent to the oldest: Germany, France, Argentina, Spain.",
+          "answer": "Argentina (2022), France (2018), Germany (2014), Spain (2010)",
+          "explanation": "The winners were Spain in 2010, Germany in 2014, France in 2018, and Argentina in 2022.",
+          "fact": "This decade saw four different winners from two different continents (Europe and South America).",
+          "expected_discussion": "Note that all these winners are either from Europe or South America."
+        }
+      ]
+    },
+    {
+      "name": "Round 6: Rapid Fire",
+      "questions": [
+        {
+          "id": 26,
+          "type": "Rapid Fire",
+          "difficulty": "Hard",
+          "question": "How long is a standard football match in minutes, excluding stoppage time?",
+          "answer": "90 minutes",
+          "explanation": "A match consists of two halves of 45 minutes each.",
+          "fact": "The duration was first established in 1866.",
+          "expected_discussion": "Mention the introduction of 'stoppage time' to compensate for delays."
+        },
+        {
+          "id": 27,
+          "type": "Rapid Fire",
+          "difficulty": "Hard",
+          "question": "Which major tennis tournament is played on grass courts in London?",
+          "answer": "Wimbledon",
+          "explanation": "Wimbledon is the oldest tennis tournament in the world and the only Grand Slam played on grass.",
+          "fact": "Players must follow a strict white-only dress code.",
+          "expected_discussion": "Talk about the unique tradition of strawberries and cream at Wimbledon."
+        },
+        {
+          "id": 28,
+          "type": "Rapid Fire",
+          "difficulty": "Hard",
+          "question": "How many total medals did India win at the Paris 2024 Olympics?",
+          "answer": "6",
+          "explanation": "India won 1 Silver (Neeraj Chopra) and 5 Bronze medals.",
+          "fact": "Manu Bhaker became the first Indian athlete in independent India to win two medals in a single Olympic edition.",
+          "expected_discussion": "Discuss Manu Bhaker's historic achievement in shooting."
+        },
+        {
+          "id": 29,
+          "type": "Rapid Fire",
+          "difficulty": "Hard",
+          "question": "Who is known as the 'Flying Sikh' of India?",
+          "answer": "Milkha Singh",
+          "explanation": "Milkha Singh was an Indian track and field sprinter who won four Asian Games gold medals.",
+          "fact": "He narrowly missed an Olympic medal, finishing fourth in the 400m final at the 1960 Rome Olympics.",
+          "expected_discussion": "Reminisce about the movie 'Bhaag Milkha Bhaag' based on his life."
+        },
+        {
+          "id": 30,
+          "type": "Rapid Fire",
+          "difficulty": "Hard",
+          "question": "What color card does a referee show to send a player off the field in football?",
+          "answer": "Red",
+          "explanation": "A red card signifies that a player has been dismissed from the match.",
+          "fact": "The red and yellow card system was introduced in the 1970 World Cup.",
+          "expected_discussion": "Explain the difference between a direct red card and two yellow cards."
+        }
+      ]
+    }
+  ],
+  "tie_breakers": [
+    {
+      "id": 1,
+      "question": "Who scored the famous 'Hand of God' goal in the 1986 World Cup?",
+      "answer": "Diego Maradona"
+    },
+    {
+      "id": 2,
+      "question": "In which year did India win its first-ever Olympic Gold medal in Field Hockey?",
+      "answer": "1928"
+    },
+    {
+      "id": 3,
+      "question": "Who is the only male player to have won three FIFA World Cup titles?",
+      "answer": "Pelé"
+    },
+    {
+      "id": 4,
+      "question": "Which city hosted the first-ever Winter Olympic Games in 1924?",
+      "answer": "Chamonix"
+    },
+    {
+      "id": 5,
+      "question": "What is the official distance of a marathon in kilometers?",
+      "answer": "42.195 km"
+    },
+    {
+      "id": 6,
+      "question": "Who is the first Indian woman to win two individual Olympic medals?",
+      "answer": "P. V. Sindhu"
+    },
+    {
+      "id": 7,
+      "question": "What is the maximum number of players allowed on a football pitch for one team at a time?",
+      "answer": "11"
+    },
+    {
+      "id": 8,
+      "question": "In which stadium will the 2026 FIFA World Cup final be played?",
+      "answer": "MetLife Stadium (New York New Jersey Stadium)"
+    },
+    {
+      "id": 9,
+      "question": "Which country will host the 2026 Winter Olympic Games?",
+      "answer": "Italy (Milan and Cortina d'Ampezzo)"
+    },
+    {
+      "id": 10,
+      "question": "How many substitute players are allowed per team in a standard FIFA competitive match since 2022?",
+      "answer": "5"
+    }
+  ]
+}
